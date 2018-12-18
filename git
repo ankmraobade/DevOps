@@ -1,4 +1,8 @@
 git is free
 git is open source
+<<<<<<< HEAD
 git is version control system
 git is a powerful tool
+=======
+git is netless vcs
+>>>>>>> task-1
