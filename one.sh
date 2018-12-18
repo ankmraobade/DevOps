@@ -1,7 +1,7 @@
 git is free
 git is a  open source
-git ddistributed version control system
-
+git is distributed version control system
+git allows developers to work simultaneous
 
 
 
