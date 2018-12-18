@@ -1,5 +1,6 @@
 git is free
-git is open source
+git is a  open source
+git ddistributed version control system
 
 
 
